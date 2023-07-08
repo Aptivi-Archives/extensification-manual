@@ -9,7 +9,6 @@
 ***
 
 * [🧱 Project Dependencies](project-dependencies.md)
-* [Report an issue](https://github.com/Aptivi/Extensification/issues/new)
-* [Source code](https://github.com/Aptivi/Extensification)
+* [Source code](https://github.com/Aptivi-Archives/Extensification)
 * [Our projects](https://github.com/Aptivi)
 * [API Reference](https://aptivi.github.io/Extensification/)

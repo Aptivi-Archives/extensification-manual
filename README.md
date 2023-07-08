@@ -4,6 +4,17 @@ description: Welcome to Extensification!
 
 # 👋 Welcome!
 
+{% hint style="warning" %}
+This library is deprecated because it relied on bad ways to achieve what the extensions are supposed to do.
+
+You have the following options:
+
+* We recommend that you re-implement specific extensions in your libraries in another way. This is the first recommended method.
+* Just take any function you want from the source code of this project located on our Archives. We don't recommend this method for this very reason mentioned above.
+
+We'll stop supporting this library starting **July 9th, 2023**.
+{% endhint %}
+
 Welcome to Extensification! It's a group of extensions that improve your experience of programming for .NET Core and .NET Framework applications.
 
 To use this library, go to any page in the left side of the screen.
